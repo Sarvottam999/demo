@@ -1,0 +1,2 @@
+enum Actions { incrementCounter }
+ 
